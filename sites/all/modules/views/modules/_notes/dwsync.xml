@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="aggregator.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664551422" remote="130084511660000000" Dst="1" />
+<file name="book.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664651423" remote="130084511660000000" Dst="1" />
+<file name="comment.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665676439" remote="130084511660000000" Dst="1" />
+<file name="comment.views_default.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665751440" remote="130084511660000000" Dst="1" />
+<file name="contact.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665826441" remote="130084511660000000" Dst="1" />
+<file name="field.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511666101445" remote="130084511660000000" Dst="1" />
+<file name="file.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511666151446" remote="130084511660000000" Dst="1" />
+<file name="filter.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511666201447" remote="130084511660000000" Dst="1" />
+<file name="image.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511666226447" remote="130084511660000000" Dst="1" />
+<file name="locale.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511666576453" remote="130084511660000000" Dst="1" />
+<file name="node.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511667651469" remote="130084511660000000" Dst="1" />
+<file name="node.views_default.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511667726470" remote="130084511660000000" Dst="1" />
+<file name="node.views_template.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511667776471" remote="130084511660000000" Dst="1" />
+<file name="poll.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511667851472" remote="130084511660000000" Dst="1" />
+<file name="profile.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668001474" remote="130084511660000000" Dst="1" />
+<file name="search.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668226478" remote="130084511660000000" Dst="1" />
+<file name="search.views_default.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668276479" remote="130084511660000000" Dst="1" />
+<file name="statistics.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668351480" remote="130084511660000000" Dst="1" />
+<file name="statistics.views_default.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668401481" remote="130084511660000000" Dst="1" />
+<file name="system.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668751486" remote="130084511660000000" Dst="1" />
+<file name="taxonomy.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669451497" remote="130084511660000000" Dst="1" />
+<file name="taxonomy.views_default.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669501498" remote="130084511660000000" Dst="1" />
+<file name="tracker.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669626499" remote="130084511660000000" Dst="1" />
+<file name="translation.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669876503" remote="130084511660000000" Dst="1" />
+<file name="user.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511670751517" remote="130084511670000000" Dst="1" />
+<file name="views.views.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511670801518" remote="130084511670000000" Dst="1" />
+</dwsync>

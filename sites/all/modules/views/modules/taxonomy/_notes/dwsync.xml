@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_argument_taxonomy.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668826487" remote="130084511660000000" Dst="1" />
+<file name="views_handler_argument_term_node_tid.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668826487" remote="130084511660000000" Dst="1" />
+<file name="views_handler_argument_term_node_tid_depth.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668876488" remote="130084511660000000" Dst="1" />
+<file name="views_handler_argument_term_node_tid_depth_modifier.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668901488" remote="130084511660000000" Dst="1" />
+<file name="views_handler_argument_vocabulary_machine_name.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668926489" remote="130084511660000000" Dst="1" />
+<file name="views_handler_argument_vocabulary_vid.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511668976489" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_taxonomy.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669026490" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_term_link_edit.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669051491" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_term_node_tid.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669101491" remote="130084511660000000" Dst="1" />
+<file name="views_handler_filter_term_node_tid.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669151492" remote="130084511660000000" Dst="1" />
+<file name="views_handler_filter_term_node_tid_depth.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669201493" remote="130084511660000000" Dst="1" />
+<file name="views_handler_filter_vocabulary_machine_name.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669226493" remote="130084511660000000" Dst="1" />
+<file name="views_handler_filter_vocabulary_vid.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669276494" remote="130084511660000000" Dst="1" />
+<file name="views_handler_relationship_node_term_data.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669301494" remote="130084511660000000" Dst="1" />
+<file name="views_plugin_argument_default_taxonomy_tid.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669326495" remote="130084511660000000" Dst="1" />
+<file name="views_plugin_argument_validate_taxonomy_term.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511669376496" remote="130084511660000000" Dst="1" />
+</dwsync>

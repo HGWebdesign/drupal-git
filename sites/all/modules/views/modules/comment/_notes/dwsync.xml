@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_argument_comment_user_uid.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664701424" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_comment.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664726424" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_comment_depth.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664751425" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_comment_link.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664801425" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_comment_link_approve.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664826426" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_comment_link_delete.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664851426" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_comment_link_edit.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664876426" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_comment_link_reply.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664901427" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_comment_node_link.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664926427" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_comment_username.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664976428" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_last_comment_timestamp.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665001428" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_ncs_last_comment_name.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665026429" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_ncs_last_updated.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665076430" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_node_comment.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665101430" remote="130084511660000000" Dst="1" />
+<file name="views_handler_field_node_new_comments.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665151431" remote="130084511660000000" Dst="1" />
+<file name="views_handler_filter_comment_user_uid.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665326433" remote="130084511660000000" Dst="1" />
+<file name="views_handler_filter_ncs_last_updated.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665351434" remote="130084511660000000" Dst="1" />
+<file name="views_handler_filter_node_comment.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665401435" remote="130084511660000000" Dst="1" />
+<file name="views_handler_sort_comment_thread.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665401435" remote="130084511660000000" Dst="1" />
+<file name="views_handler_sort_ncs_last_comment_name.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665526436" remote="130084511660000000" Dst="1" />
+<file name="views_handler_sort_ncs_last_updated.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665551437" remote="130084511660000000" Dst="1" />
+<file name="views_plugin_row_comment_rss.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665576437" remote="130084511660000000" Dst="1" />
+<file name="views_plugin_row_comment_view.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665626438" remote="130084511660000000" Dst="1" />
+</dwsync>

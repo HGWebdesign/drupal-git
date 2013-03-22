@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_area_text.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673151554" remote="130084511670000000" Dst="1" />
+<file name="views_handler_argument_null.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673176554" remote="130084511670000000" Dst="1" />
+<file name="views_handler_argument_string.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673201554" remote="130084511670000000" Dst="1" />
+<file name="views_handler_field.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673251555" remote="130084511670000000" Dst="1" />
+<file name="views_handler_field_boolean.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673276556" remote="130084511670000000" Dst="1" />
+<file name="views_handler_field_counter.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673301556" remote="130084511670000000" Dst="1" />
+<file name="views_handler_field_custom.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673351557" remote="130084511670000000" Dst="1" />
+<file name="views_handler_field_date.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673401557" remote="130084511670000000" Dst="1" />
+<file name="views_handler_field_file_size.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673426558" remote="130084511670000000" Dst="1" />
+<file name="views_handler_field_math.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673451558" remote="130084511670000000" Dst="1" />
+<file name="views_handler_field_url.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673501559" remote="130084511670000000" Dst="1" />
+<file name="views_handler_field_xss.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673526559" remote="130084511670000000" Dst="1" />
+<file name="views_handler_filter_combine.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673551560" remote="130084511670000000" Dst="1" />
+<file name="views_handler_filter_date.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673601561" remote="130084511670000000" Dst="1" />
+<file name="views_handler_filter_equality.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673626561" remote="130084511670000000" Dst="1" />
+<file name="views_handler_filter_in_operator.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673701562" remote="130084511670000000" Dst="1" />
+<file name="views_handler_filter_numeric.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673851564" remote="130084511670000000" Dst="1" />
+<file name="views_handler_filter_string.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673901565" remote="130084511670000000" Dst="1" />
+<file name="views_handler_sort.test" server="C:/xampp/htdocs/drupal-git/" local="130084511673976566" remote="130084511670000000" Dst="1" />
+<file name="views_handler_sort_date.test" server="C:/xampp/htdocs/drupal-git/" local="130084511674001567" remote="130084511670000000" Dst="1" />
+<file name="views_handler_sort_random.test" server="C:/xampp/htdocs/drupal-git/" local="130084511674051567" remote="130084511670000000" Dst="1" />
+</dwsync>
