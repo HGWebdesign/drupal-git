@@ -11,4 +11,15 @@
 <file name="taxonomy.pages.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501752550356" remote="130084501750000000" Dst="1" />
 <file name="taxonomy.test" server="C:/xampp/htdocs/drupal-git/" local="130084501754175381" remote="130084501750000000" Dst="1" />
 <file name="taxonomy.tokens.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501754800391" remote="130084501750000000" Dst="1" />
+<file name="taxonomy-term.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017742251407" remote="130087017740000000" Dst="1" />
+<file name="taxonomy.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017742276408" remote="130087017740000000" Dst="1" />
+<file name="taxonomy.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017742301408" remote="130087017740000000" Dst="1" />
+<file name="taxonomy.css" server="C:/xampp/htdocs/drupal-live/" local="130087017742326408" remote="130087017740000000" Dst="1" />
+<file name="taxonomy.info" server="C:/xampp/htdocs/drupal-live/" local="130087017742351409" remote="130087017740000000" Dst="1" />
+<file name="taxonomy.install" server="C:/xampp/htdocs/drupal-live/" local="130087017742351409" remote="130087017740000000" Dst="1" />
+<file name="taxonomy.js" server="C:/xampp/htdocs/drupal-live/" local="130087017742376409" remote="130087017740000000" Dst="1" />
+<file name="taxonomy.module" server="C:/xampp/htdocs/drupal-live/" local="130087017742401409" remote="130087017740000000" Dst="1" />
+<file name="taxonomy.pages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017742426410" remote="130087017740000000" Dst="1" />
+<file name="taxonomy.test" server="C:/xampp/htdocs/drupal-live/" local="130087017742451410" remote="130087017740000000" Dst="1" />
+<file name="taxonomy.tokens.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017742476411" remote="130087017740000000" Dst="1" />
 </dwsync>

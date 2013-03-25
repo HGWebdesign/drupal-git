@@ -16,4 +16,20 @@
 <file name="user.permissions.js" server="C:/xampp/htdocs/drupal-git/" local="130084501610712323" remote="130084501610000000" Dst="1" />
 <file name="user.test" server="C:/xampp/htdocs/drupal-git/" local="130084501612812356" remote="130084501610000000" Dst="1" />
 <file name="user.tokens.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501611737339" remote="130084501610000000" Dst="1" />
+<file name="user-picture.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017744401440" remote="130087017740000000" Dst="1" />
+<file name="user-profile-category.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017744426441" remote="130087017740000000" Dst="1" />
+<file name="user-profile-item.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017744426441" remote="130087017740000000" Dst="1" />
+<file name="user-profile.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017744451441" remote="130087017740000000" Dst="1" />
+<file name="user-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017744476441" remote="130087017740000000" Dst="1" />
+<file name="user.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017744501442" remote="130087017740000000" Dst="1" />
+<file name="user.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017744526442" remote="130087017740000000" Dst="1" />
+<file name="user.css" server="C:/xampp/htdocs/drupal-live/" local="130087017744551442" remote="130087017740000000" Dst="1" />
+<file name="user.info" server="C:/xampp/htdocs/drupal-live/" local="130087017744576443" remote="130087017740000000" Dst="1" />
+<file name="user.install" server="C:/xampp/htdocs/drupal-live/" local="130087017744601443" remote="130087017740000000" Dst="1" />
+<file name="user.js" server="C:/xampp/htdocs/drupal-live/" local="130087017744626444" remote="130087017740000000" Dst="1" />
+<file name="user.module" server="C:/xampp/htdocs/drupal-live/" local="130087017744676444" remote="130087017740000000" Dst="1" />
+<file name="user.pages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017744701445" remote="130087017740000000" Dst="1" />
+<file name="user.permissions.js" server="C:/xampp/htdocs/drupal-live/" local="130087017744751446" remote="130087017740000000" Dst="1" />
+<file name="user.test" server="C:/xampp/htdocs/drupal-live/" local="130087017744776446" remote="130087017740000000" Dst="1" />
+<file name="user.tokens.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017744801446" remote="130087017740000000" Dst="1" />
 </dwsync>

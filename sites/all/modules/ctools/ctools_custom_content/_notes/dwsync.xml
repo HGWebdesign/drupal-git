@@ -3,4 +3,7 @@
 <file name="ctools_custom_content.info" server="C:/xampp/htdocs/drupal-git/" local="130084526772742153" remote="130084526770000000" Dst="1" />
 <file name="ctools_custom_content.install" server="C:/xampp/htdocs/drupal-git/" local="130084526772942153" remote="130084526770000000" Dst="1" />
 <file name="ctools_custom_content.module" server="C:/xampp/htdocs/drupal-git/" local="130084526772442152" remote="130084526770000000" Dst="1" />
+<file name="ctools_custom_content.info" server="C:/xampp/htdocs/drupal-live/" local="130087017747626490" remote="130087017740000000" Dst="1" />
+<file name="ctools_custom_content.install" server="C:/xampp/htdocs/drupal-live/" local="130087017747626490" remote="130087017740000000" Dst="1" />
+<file name="ctools_custom_content.module" server="C:/xampp/htdocs/drupal-live/" local="130087017747651490" remote="130087017740000000" Dst="1" />
 </dwsync>

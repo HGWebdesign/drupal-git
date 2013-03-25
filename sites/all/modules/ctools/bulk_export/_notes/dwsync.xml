@@ -4,4 +4,8 @@
 <file name="bulk_export.info" server="C:/xampp/htdocs/drupal-git/" local="130084526863912484" remote="130084526860000000" Dst="1" />
 <file name="bulk_export.js" server="C:/xampp/htdocs/drupal-git/" local="130084526864099987" remote="130084526860000000" Dst="1" />
 <file name="bulk_export.module" server="C:/xampp/htdocs/drupal-git/" local="130084526863564978" remote="130084526860000000" Dst="1" />
+<file name="bulk_export.css" server="C:/xampp/htdocs/drupal-live/" local="130087017746626474" remote="130087017740000000" Dst="1" />
+<file name="bulk_export.info" server="C:/xampp/htdocs/drupal-live/" local="130087017746651475" remote="130087017740000000" Dst="1" />
+<file name="bulk_export.js" server="C:/xampp/htdocs/drupal-live/" local="130087017746676475" remote="130087017740000000" Dst="1" />
+<file name="bulk_export.module" server="C:/xampp/htdocs/drupal-live/" local="130087017746676475" remote="130087017740000000" Dst="1" />
 </dwsync>

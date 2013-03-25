@@ -4,4 +4,8 @@
 <file name="field_sql_storage.install" server="C:/xampp/htdocs/drupal-git/" local="130084501788711334" remote="130084501780000000" Dst="1" />
 <file name="field_sql_storage.module" server="C:/xampp/htdocs/drupal-git/" local="130084501787886322" remote="130084501780000000" Dst="1" />
 <file name="field_sql_storage.test" server="C:/xampp/htdocs/drupal-git/" local="130084501787311313" remote="130084501780000000" Dst="1" />
+<file name="field_sql_storage.info" server="C:/xampp/htdocs/drupal-live/" local="130087017725216145" remote="130087017720000000" Dst="1" />
+<file name="field_sql_storage.install" server="C:/xampp/htdocs/drupal-live/" local="130087017725241145" remote="130087017720000000" Dst="1" />
+<file name="field_sql_storage.module" server="C:/xampp/htdocs/drupal-live/" local="130087017725266146" remote="130087017720000000" Dst="1" />
+<file name="field_sql_storage.test" server="C:/xampp/htdocs/drupal-live/" local="130087017725341147" remote="130087017720000000" Dst="1" />
 </dwsync>

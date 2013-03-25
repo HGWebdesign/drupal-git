@@ -5,4 +5,9 @@
 <file name="maintenance-page.tpl.php" server="C:/xampp/htdocs/drupal-git/" local="130084501836062062" remote="130084501830000000" Dst="1" />
 <file name="node.tpl.php" server="C:/xampp/htdocs/drupal-git/" local="130084501836712072" remote="130084501830000000" Dst="1" />
 <file name="page.tpl.php" server="C:/xampp/htdocs/drupal-git/" local="130084501837012076" remote="130084501830000000" Dst="1" />
+<file name="comment-wrapper.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017787977109" remote="130087017780000000" Dst="1" />
+<file name="comment.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017788002110" remote="130087017780000000" Dst="1" />
+<file name="maintenance-page.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017788102111" remote="130087017780000000" Dst="1" />
+<file name="node.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017788127112" remote="130087017780000000" Dst="1" />
+<file name="page.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017788152112" remote="130087017780000000" Dst="1" />
 </dwsync>

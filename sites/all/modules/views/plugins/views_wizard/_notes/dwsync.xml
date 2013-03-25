@@ -13,4 +13,17 @@
 <file name="views_ui_node_views_wizard.class.php" server="C:/xampp/htdocs/drupal-git/" local="130084511672826549" remote="130084511670000000" Dst="1" />
 <file name="views_ui_taxonomy_term_views_wizard.class.php" server="C:/xampp/htdocs/drupal-git/" local="130084511672876549" remote="130084511670000000" Dst="1" />
 <file name="views_ui_users_views_wizard.class.php" server="C:/xampp/htdocs/drupal-git/" local="130084511672926550" remote="130084511670000000" Dst="1" />
+<file name="comment.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017777126943" remote="130087017770000000" Dst="1" />
+<file name="file_managed.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017777151943" remote="130087017770000000" Dst="1" />
+<file name="node.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017777176944" remote="130087017770000000" Dst="1" />
+<file name="node_revision.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017777201944" remote="130087017770000000" Dst="1" />
+<file name="taxonomy_term.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017777226944" remote="130087017770000000" Dst="1" />
+<file name="users.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017777426947" remote="130087017770000000" Dst="1" />
+<file name="views_ui_base_views_wizard.class.php" server="C:/xampp/htdocs/drupal-live/" local="130087017777451948" remote="130087017770000000" Dst="1" />
+<file name="views_ui_comment_views_wizard.class.php" server="C:/xampp/htdocs/drupal-live/" local="130087017777451948" remote="130087017770000000" Dst="1" />
+<file name="views_ui_file_managed_views_wizard.class.php" server="C:/xampp/htdocs/drupal-live/" local="130087017777551949" remote="130087017770000000" Dst="1" />
+<file name="views_ui_node_revision_views_wizard.class.php" server="C:/xampp/htdocs/drupal-live/" local="130087017777576950" remote="130087017770000000" Dst="1" />
+<file name="views_ui_node_views_wizard.class.php" server="C:/xampp/htdocs/drupal-live/" local="130087017777601950" remote="130087017770000000" Dst="1" />
+<file name="views_ui_taxonomy_term_views_wizard.class.php" server="C:/xampp/htdocs/drupal-live/" local="130087017777601950" remote="130087017770000000" Dst="1" />
+<file name="views_ui_users_views_wizard.class.php" server="C:/xampp/htdocs/drupal-live/" local="130087017777626951" remote="130087017770000000" Dst="1" />
 </dwsync>

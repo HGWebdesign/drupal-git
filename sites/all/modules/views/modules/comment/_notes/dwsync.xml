@@ -23,4 +23,27 @@
 <file name="views_handler_sort_ncs_last_updated.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665551437" remote="130084511660000000" Dst="1" />
 <file name="views_plugin_row_comment_rss.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665576437" remote="130084511660000000" Dst="1" />
 <file name="views_plugin_row_comment_view.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511665626438" remote="130084511660000000" Dst="1" />
+<file name="views_handler_argument_comment_user_uid.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771476856" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_comment.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771501856" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_comment_depth.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771526857" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_comment_link.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771526857" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_comment_link_approve.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771576858" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_comment_link_delete.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771576858" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_comment_link_edit.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771601858" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_comment_link_reply.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771626858" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_comment_node_link.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771651859" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_comment_username.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771676859" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_last_comment_timestamp.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771701860" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_ncs_last_comment_name.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771726860" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_ncs_last_updated.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771751860" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_node_comment.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771776861" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_node_new_comments.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771801861" remote="130087017770000000" Dst="1" />
+<file name="views_handler_filter_comment_user_uid.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771826861" remote="130087017770000000" Dst="1" />
+<file name="views_handler_filter_ncs_last_updated.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771851862" remote="130087017770000000" Dst="1" />
+<file name="views_handler_filter_node_comment.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771851862" remote="130087017770000000" Dst="1" />
+<file name="views_handler_sort_comment_thread.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771876862" remote="130087017770000000" Dst="1" />
+<file name="views_handler_sort_ncs_last_comment_name.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771901863" remote="130087017770000000" Dst="1" />
+<file name="views_handler_sort_ncs_last_updated.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771926863" remote="130087017770000000" Dst="1" />
+<file name="views_plugin_row_comment_rss.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771926863" remote="130087017770000000" Dst="1" />
+<file name="views_plugin_row_comment_view.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771951863" remote="130087017770000000" Dst="1" />
 </dwsync>

@@ -3,4 +3,7 @@
 <file name="standard.info" server="C:/xampp/htdocs/drupal-git/" local="130084501847322534" remote="130084501840000000" Dst="1" />
 <file name="standard.install" server="C:/xampp/htdocs/drupal-git/" local="130084501847612551" remote="130084501840000000" Dst="1" />
 <file name="standard.profile" server="C:/xampp/htdocs/drupal-git/" local="130084501847812562" remote="130084501840000000" Dst="1" />
+<file name="standard.info" server="C:/xampp/htdocs/drupal-live/" local="130087017744976449" remote="130087017740000000" Dst="1" />
+<file name="standard.install" server="C:/xampp/htdocs/drupal-live/" local="130087017745001449" remote="130087017740000000" Dst="1" />
+<file name="standard.profile" server="C:/xampp/htdocs/drupal-live/" local="130087017745026450" remote="130087017740000000" Dst="1" />
 </dwsync>

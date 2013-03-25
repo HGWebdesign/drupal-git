@@ -4,4 +4,8 @@
 <file name="php.install" server="C:/xampp/htdocs/drupal-git/" local="130084501731864448" remote="130084501730000000" Dst="1" />
 <file name="php.module" server="C:/xampp/htdocs/drupal-git/" local="130084501731244412" remote="130084501730000000" Dst="1" />
 <file name="php.test" server="C:/xampp/htdocs/drupal-git/" local="130084501731654436" remote="130084501730000000" Dst="1" />
+<file name="php.info" server="C:/xampp/htdocs/drupal-live/" local="130087017730501227" remote="130087017730000000" Dst="1" />
+<file name="php.install" server="C:/xampp/htdocs/drupal-live/" local="130087017730526227" remote="130087017730000000" Dst="1" />
+<file name="php.module" server="C:/xampp/htdocs/drupal-live/" local="130087017730551227" remote="130087017730000000" Dst="1" />
+<file name="php.test" server="C:/xampp/htdocs/drupal-live/" local="130087017730576228" remote="130087017730000000" Dst="1" />
 </dwsync>

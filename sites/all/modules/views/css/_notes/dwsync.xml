@@ -16,4 +16,20 @@
 <file name="views-admin.theme.css" server="C:/xampp/htdocs/drupal-git/" local="130084511655891288" remote="130084511650000000" Dst="1" />
 <file name="views-rtl.css" server="C:/xampp/htdocs/drupal-git/" local="130084511655941289" remote="130084511650000000" Dst="1" />
 <file name="views.css" server="C:/xampp/htdocs/drupal-git/" local="130084511655966289" remote="130084511650000000" Dst="1" />
+<file name="views-admin-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017761451702" remote="130087017760000000" Dst="1" />
+<file name="views-admin.advanced_help.css" server="C:/xampp/htdocs/drupal-live/" local="130087017761476702" remote="130087017760000000" Dst="1" />
+<file name="views-admin.bartik-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017761526703" remote="130087017760000000" Dst="1" />
+<file name="views-admin.bartik.css" server="C:/xampp/htdocs/drupal-live/" local="130087017761526703" remote="130087017760000000" Dst="1" />
+<file name="views-admin.contextual.css" server="C:/xampp/htdocs/drupal-live/" local="130087017761551704" remote="130087017760000000" Dst="1" />
+<file name="views-admin.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763276730" remote="130087017760000000" Dst="1" />
+<file name="views-admin.ctools-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763301730" remote="130087017760000000" Dst="1" />
+<file name="views-admin.ctools.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763326731" remote="130087017760000000" Dst="1" />
+<file name="views-admin.garland-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763351731" remote="130087017760000000" Dst="1" />
+<file name="views-admin.garland.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763376732" remote="130087017760000000" Dst="1" />
+<file name="views-admin.seven-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763401732" remote="130087017760000000" Dst="1" />
+<file name="views-admin.seven.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763426732" remote="130087017760000000" Dst="1" />
+<file name="views-admin.theme-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763451733" remote="130087017760000000" Dst="1" />
+<file name="views-admin.theme.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763476733" remote="130087017760000000" Dst="1" />
+<file name="views-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763526734" remote="130087017760000000" Dst="1" />
+<file name="views.css" server="C:/xampp/htdocs/drupal-live/" local="130087017763551734" remote="130087017760000000" Dst="1" />
 </dwsync>

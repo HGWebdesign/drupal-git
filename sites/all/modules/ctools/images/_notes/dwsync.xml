@@ -10,4 +10,14 @@
 <file name="no-icon.png" server="C:/xampp/htdocs/drupal-git/" local="130084526807928720" remote="130084526800000000" Dst="1" />
 <file name="status-active.gif" server="C:/xampp/htdocs/drupal-git/" local="130084526807772719" remote="130084526800000000" Dst="1" />
 <file name="throbber.gif" server="C:/xampp/htdocs/drupal-git/" local="130084526806680718" remote="130084526800000000" Dst="1" />
+<file name="arrow-active.png" server="C:/xampp/htdocs/drupal-live/" local="130087017749051512" remote="130087017740000000" Dst="1" />
+<file name="collapsible-collapsed.png" server="C:/xampp/htdocs/drupal-live/" local="130087017749051512" remote="130087017740000000" Dst="1" />
+<file name="collapsible-expanded.png" server="C:/xampp/htdocs/drupal-live/" local="130087017749076512" remote="130087017740000000" Dst="1" />
+<file name="expanded-options.png" server="C:/xampp/htdocs/drupal-live/" local="130087017749076512" remote="130087017740000000" Dst="1" />
+<file name="icon-close-window.png" server="C:/xampp/htdocs/drupal-live/" local="130087017749101512" remote="130087017740000000" Dst="1" />
+<file name="icon-configure.png" server="C:/xampp/htdocs/drupal-live/" local="130087017749101512" remote="130087017740000000" Dst="1" />
+<file name="icon-delete.png" server="C:/xampp/htdocs/drupal-live/" local="130087017749126513" remote="130087017740000000" Dst="1" />
+<file name="no-icon.png" server="C:/xampp/htdocs/drupal-live/" local="130087017749126513" remote="130087017740000000" Dst="1" />
+<file name="status-active.gif" server="C:/xampp/htdocs/drupal-live/" local="130087017749151513" remote="130087017740000000" Dst="1" />
+<file name="throbber.gif" server="C:/xampp/htdocs/drupal-live/" local="130087017749151513" remote="130087017740000000" Dst="1" />
 </dwsync>

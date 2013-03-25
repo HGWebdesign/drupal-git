@@ -3,4 +3,7 @@
 <file name="drupal_system_listing_compatible_test.info" server="C:/xampp/htdocs/drupal-git/" local="130084501846602493" remote="130084501840000000" Dst="1" />
 <file name="drupal_system_listing_compatible_test.module" server="C:/xampp/htdocs/drupal-git/" local="130084501846392481" remote="130084501840000000" Dst="1" />
 <file name="drupal_system_listing_compatible_test.test" server="C:/xampp/htdocs/drupal-git/" local="130084501847092521" remote="130084501840000000" Dst="1" />
+<file name="drupal_system_listing_compatible_test.info" server="C:/xampp/htdocs/drupal-live/" local="130087017745126451" remote="130087017740000000" Dst="1" />
+<file name="drupal_system_listing_compatible_test.module" server="C:/xampp/htdocs/drupal-live/" local="130087017745151452" remote="130087017740000000" Dst="1" />
+<file name="drupal_system_listing_compatible_test.test" server="C:/xampp/htdocs/drupal-live/" local="130087017745176452" remote="130087017740000000" Dst="1" />
 </dwsync>

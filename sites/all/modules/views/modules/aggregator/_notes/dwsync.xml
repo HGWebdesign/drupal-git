@@ -8,4 +8,12 @@
 <file name="views_handler_field_aggregator_xss.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664426420" remote="130084511660000000" Dst="1" />
 <file name="views_handler_filter_aggregator_category_cid.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664476420" remote="130084511660000000" Dst="1" />
 <file name="views_plugin_row_aggregator_rss.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511664526421" remote="130084511660000000" Dst="1" />
+<file name="views_handler_argument_aggregator_category_cid.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017770951848" remote="130087017770000000" Dst="1" />
+<file name="views_handler_argument_aggregator_fid.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017770976848" remote="130087017770000000" Dst="1" />
+<file name="views_handler_argument_aggregator_iid.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771001849" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_aggregator_category.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771026849" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_aggregator_title_link.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771026849" remote="130087017770000000" Dst="1" />
+<file name="views_handler_field_aggregator_xss.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771051850" remote="130087017770000000" Dst="1" />
+<file name="views_handler_filter_aggregator_category_cid.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771076850" remote="130087017770000000" Dst="1" />
+<file name="views_plugin_row_aggregator_rss.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017771101850" remote="130087017770000000" Dst="1" />
 </dwsync>

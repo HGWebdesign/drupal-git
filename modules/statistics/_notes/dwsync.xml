@@ -7,4 +7,11 @@
 <file name="statistics.pages.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501799336498" remote="130084501790000000" Dst="1" />
 <file name="statistics.test" server="C:/xampp/htdocs/drupal-git/" local="130084501798786489" remote="130084501790000000" Dst="1" />
 <file name="statistics.tokens.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501798061478" remote="130084501790000000" Dst="1" />
+<file name="statistics.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017740526381" remote="130087017740000000" Dst="1" />
+<file name="statistics.info" server="C:/xampp/htdocs/drupal-live/" local="130087017740576381" remote="130087017740000000" Dst="1" />
+<file name="statistics.install" server="C:/xampp/htdocs/drupal-live/" local="130087017740601382" remote="130087017740000000" Dst="1" />
+<file name="statistics.module" server="C:/xampp/htdocs/drupal-live/" local="130087017740626382" remote="130087017740000000" Dst="1" />
+<file name="statistics.pages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017740651383" remote="130087017740000000" Dst="1" />
+<file name="statistics.test" server="C:/xampp/htdocs/drupal-live/" local="130087017740676383" remote="130087017740000000" Dst="1" />
+<file name="statistics.tokens.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017740726384" remote="130087017740000000" Dst="1" />
 </dwsync>

@@ -5,4 +5,9 @@
 <file name="rdf.install" server="C:/xampp/htdocs/drupal-git/" local="130084501552326002" remote="130084501550000000" Dst="1" />
 <file name="rdf.module" server="C:/xampp/htdocs/drupal-git/" local="130084501552951011" remote="130084501550000000" Dst="1" />
 <file name="rdf.test" server="C:/xampp/htdocs/drupal-git/" local="130084501552626006" remote="130084501550000000" Dst="1" />
+<file name="rdf.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017731251238" remote="130087017730000000" Dst="1" />
+<file name="rdf.info" server="C:/xampp/htdocs/drupal-live/" local="130087017731276239" remote="130087017730000000" Dst="1" />
+<file name="rdf.install" server="C:/xampp/htdocs/drupal-live/" local="130087017731301239" remote="130087017730000000" Dst="1" />
+<file name="rdf.module" server="C:/xampp/htdocs/drupal-live/" local="130087017731326239" remote="130087017730000000" Dst="1" />
+<file name="rdf.test" server="C:/xampp/htdocs/drupal-live/" local="130087017731351240" remote="130087017730000000" Dst="1" />
 </dwsync>

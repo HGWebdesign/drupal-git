@@ -11,4 +11,15 @@
 <file name="views.tokens.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511676801610" remote="130084511670000000" Dst="1" />
 <file name="views_ui.info" server="C:/xampp/htdocs/drupal-git/" local="130084511676876611" remote="130084511670000000" Dst="1" />
 <file name="views_ui.module" server="C:/xampp/htdocs/drupal-git/" local="130084511676901611" remote="130084511670000000" Dst="1" />
+<file name="D7UPGRADE.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017761326700" remote="130087017760000000" Dst="1" />
+<file name="documentation-standards.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017763626735" remote="130087017760000000" Dst="1" />
+<file name="LICENSE.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017761351701" remote="130087017760000000" Dst="1" />
+<file name="README.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017761351701" remote="130087017760000000" Dst="1" />
+<file name="views.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785777076" remote="130087017780000000" Dst="1" />
+<file name="views.info" server="C:/xampp/htdocs/drupal-live/" local="130087017785802076" remote="130087017780000000" Dst="1" />
+<file name="views.install" server="C:/xampp/htdocs/drupal-live/" local="130087017786052080" remote="130087017780000000" Dst="1" />
+<file name="views.module" server="C:/xampp/htdocs/drupal-live/" local="130087017786102081" remote="130087017780000000" Dst="1" />
+<file name="views.tokens.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017786177082" remote="130087017780000000" Dst="1" />
+<file name="views_ui.info" server="C:/xampp/htdocs/drupal-live/" local="130087017786227083" remote="130087017780000000" Dst="1" />
+<file name="views_ui.module" server="C:/xampp/htdocs/drupal-live/" local="130087017786252083" remote="130087017780000000" Dst="1" />
 </dwsync>

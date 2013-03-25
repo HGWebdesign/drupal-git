@@ -20,4 +20,24 @@
 <file name="views-view-table.tpl.php" server="C:/xampp/htdocs/drupal-git/" local="130084511676551606" remote="130084511670000000" Dst="1" />
 <file name="views-view-unformatted.tpl.php" server="C:/xampp/htdocs/drupal-git/" local="130084511676576606" remote="130084511670000000" Dst="1" />
 <file name="views-view.tpl.php" server="C:/xampp/htdocs/drupal-git/" local="130084511676601607" remote="130084511670000000" Dst="1" />
+<file name="theme.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017784902062" remote="130087017780000000" Dst="1" />
+<file name="views-exposed-form.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017784927063" remote="130087017780000000" Dst="1" />
+<file name="views-more.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017784952063" remote="130087017780000000" Dst="1" />
+<file name="views-ui-display-tab-bucket.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785077065" remote="130087017780000000" Dst="1" />
+<file name="views-ui-display-tab-setting.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785102065" remote="130087017780000000" Dst="1" />
+<file name="views-ui-edit-item.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785127066" remote="130087017780000000" Dst="1" />
+<file name="views-ui-edit-view.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785127066" remote="130087017780000000" Dst="1" />
+<file name="views-view-field.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785152066" remote="130087017780000000" Dst="1" />
+<file name="views-view-fields.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785177066" remote="130087017780000000" Dst="1" />
+<file name="views-view-grid.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785202067" remote="130087017780000000" Dst="1" />
+<file name="views-view-grouping.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785227067" remote="130087017780000000" Dst="1" />
+<file name="views-view-list.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785227067" remote="130087017780000000" Dst="1" />
+<file name="views-view-row-comment.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785302068" remote="130087017780000000" Dst="1" />
+<file name="views-view-row-rss.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785327069" remote="130087017780000000" Dst="1" />
+<file name="views-view-rss.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785352069" remote="130087017780000000" Dst="1" />
+<file name="views-view-summary-unformatted.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785377070" remote="130087017780000000" Dst="1" />
+<file name="views-view-summary.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785552072" remote="130087017780000000" Dst="1" />
+<file name="views-view-table.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785577073" remote="130087017780000000" Dst="1" />
+<file name="views-view-unformatted.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785602073" remote="130087017780000000" Dst="1" />
+<file name="views-view.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017785627073" remote="130087017780000000" Dst="1" />
 </dwsync>

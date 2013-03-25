@@ -9,4 +9,13 @@
 <file name="menu.js" server="C:/xampp/htdocs/drupal-git/" local="130084501550450973" remote="130084501550000000" Dst="1" />
 <file name="menu.module" server="C:/xampp/htdocs/drupal-git/" local="130084501551050982" remote="130084501550000000" Dst="1" />
 <file name="menu.test" server="C:/xampp/htdocs/drupal-git/" local="130084501549775962" remote="130084501540000000" Dst="1" />
+<file name="menu.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017728741199" remote="130087017720000000" Dst="1" />
+<file name="menu.admin.js" server="C:/xampp/htdocs/drupal-live/" local="130087017728766200" remote="130087017720000000" Dst="1" />
+<file name="menu.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017728791200" remote="130087017720000000" Dst="1" />
+<file name="menu.css" server="C:/xampp/htdocs/drupal-live/" local="130087017728816200" remote="130087017720000000" Dst="1" />
+<file name="menu.info" server="C:/xampp/htdocs/drupal-live/" local="130087017728841201" remote="130087017720000000" Dst="1" />
+<file name="menu.install" server="C:/xampp/htdocs/drupal-live/" local="130087017728841201" remote="130087017720000000" Dst="1" />
+<file name="menu.js" server="C:/xampp/htdocs/drupal-live/" local="130087017728866201" remote="130087017720000000" Dst="1" />
+<file name="menu.module" server="C:/xampp/htdocs/drupal-live/" local="130087017728916202" remote="130087017720000000" Dst="1" />
+<file name="menu.test" server="C:/xampp/htdocs/drupal-live/" local="130087017728916202" remote="130087017720000000" Dst="1" />
 </dwsync>

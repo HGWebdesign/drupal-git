@@ -8,4 +8,12 @@
 <file name="overridden.gif" server="C:/xampp/htdocs/drupal-git/" local="130084511663041398" remote="130084511660000000" Dst="1" />
 <file name="sprites.png" server="C:/xampp/htdocs/drupal-git/" local="130084511663041398" remote="130084511660000000" Dst="1" />
 <file name="status-active.gif" server="C:/xampp/htdocs/drupal-git/" local="130084511663066398" remote="130084511660000000" Dst="1" />
+<file name="arrow-active.png" server="C:/xampp/htdocs/drupal-live/" local="130087017770276838" remote="130087017770000000" Dst="1" />
+<file name="close.png" server="C:/xampp/htdocs/drupal-live/" local="130087017770276838" remote="130087017770000000" Dst="1" />
+<file name="expanded-options.png" server="C:/xampp/htdocs/drupal-live/" local="130087017770301838" remote="130087017770000000" Dst="1" />
+<file name="loading-small.gif" server="C:/xampp/htdocs/drupal-live/" local="130087017770326838" remote="130087017770000000" Dst="1" />
+<file name="loading.gif" server="C:/xampp/htdocs/drupal-live/" local="130087017770351839" remote="130087017770000000" Dst="1" />
+<file name="overridden.gif" server="C:/xampp/htdocs/drupal-live/" local="130087017770351839" remote="130087017770000000" Dst="1" />
+<file name="sprites.png" server="C:/xampp/htdocs/drupal-live/" local="130087017770376839" remote="130087017770000000" Dst="1" />
+<file name="status-active.gif" server="C:/xampp/htdocs/drupal-live/" local="130087017770401840" remote="130087017770000000" Dst="1" />
 </dwsync>

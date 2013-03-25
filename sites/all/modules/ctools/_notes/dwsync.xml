@@ -8,4 +8,12 @@
 <file name="ctools.module" server="C:/xampp/htdocs/drupal-git/" local="130084526770992150" remote="130084526770000000" Dst="1" />
 <file name="LICENSE.txt" server="C:/xampp/htdocs/drupal-git/" local="130084526770642150" remote="130084526770000000" Dst="1" />
 <file name="UPGRADE.txt" server="C:/xampp/htdocs/drupal-git/" local="130084526770442149" remote="130084526770000000" Dst="1" />
+<file name="API.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017746501472" remote="130087017740000000" Dst="1" />
+<file name="CHANGELOG.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017746526473" remote="130087017740000000" Dst="1" />
+<file name="ctools.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017746976480" remote="130087017740000000" Dst="1" />
+<file name="ctools.info" server="C:/xampp/htdocs/drupal-live/" local="130087017747001480" remote="130087017740000000" Dst="1" />
+<file name="ctools.install" server="C:/xampp/htdocs/drupal-live/" local="130087017747026481" remote="130087017740000000" Dst="1" />
+<file name="ctools.module" server="C:/xampp/htdocs/drupal-live/" local="130087017747051481" remote="130087017740000000" Dst="1" />
+<file name="LICENSE.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017746551473" remote="130087017740000000" Dst="1" />
+<file name="UPGRADE.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017746551473" remote="130087017740000000" Dst="1" />
 </dwsync>

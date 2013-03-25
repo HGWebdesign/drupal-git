@@ -22,4 +22,26 @@
 <file name="term_parent.inc" server="C:/xampp/htdocs/drupal-git/" local="130084526824152748" remote="130084526820000000" Dst="1" />
 <file name="term_vocabulary.inc" server="C:/xampp/htdocs/drupal-git/" local="130084526824464749" remote="130084526820000000" Dst="1" />
 <file name="theme.inc" server="C:/xampp/htdocs/drupal-git/" local="130084526820720742" remote="130084526820000000" Dst="1" />
+<file name="compare_users.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752001557" remote="130087017750000000" Dst="1" />
+<file name="context_exists.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752026557" remote="130087017750000000" Dst="1" />
+<file name="entity_bundle.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752026557" remote="130087017750000000" Dst="1" />
+<file name="entity_field_value.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752051558" remote="130087017750000000" Dst="1" />
+<file name="front.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752076558" remote="130087017750000000" Dst="1" />
+<file name="node.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752101558" remote="130087017750000000" Dst="1" />
+<file name="node_access.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752126559" remote="130087017750000000" Dst="1" />
+<file name="node_language.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752126559" remote="130087017750000000" Dst="1" />
+<file name="node_status.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752151559" remote="130087017750000000" Dst="1" />
+<file name="node_type.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752176560" remote="130087017750000000" Dst="1" />
+<file name="path_visibility.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752201560" remote="130087017750000000" Dst="1" />
+<file name="perm.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752226560" remote="130087017750000000" Dst="1" />
+<file name="php.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752251561" remote="130087017750000000" Dst="1" />
+<file name="role.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752251561" remote="130087017750000000" Dst="1" />
+<file name="site_language.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752276561" remote="130087017750000000" Dst="1" />
+<file name="string_equal.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752301562" remote="130087017750000000" Dst="1" />
+<file name="string_length.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752326562" remote="130087017750000000" Dst="1" />
+<file name="term.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752351562" remote="130087017750000000" Dst="1" />
+<file name="term_has_parent.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752376563" remote="130087017750000000" Dst="1" />
+<file name="term_parent.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752401563" remote="130087017750000000" Dst="1" />
+<file name="term_vocabulary.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752451564" remote="130087017750000000" Dst="1" />
+<file name="theme.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017752476564" remote="130087017750000000" Dst="1" />
 </dwsync>

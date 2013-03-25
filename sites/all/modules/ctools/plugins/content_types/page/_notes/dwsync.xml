@@ -12,4 +12,16 @@
 <file name="page_slogan.inc" server="C:/xampp/htdocs/drupal-git/" local="130084526850984795" remote="130084526850000000" Dst="1" />
 <file name="page_tabs.inc" server="C:/xampp/htdocs/drupal-git/" local="130084526850360794" remote="130084526850000000" Dst="1" />
 <file name="page_title.inc" server="C:/xampp/htdocs/drupal-git/" local="130084526851296796" remote="130084526850000000" Dst="1" />
+<file name="page_actions.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017754826600" remote="130087017750000000" Dst="1" />
+<file name="page_breadcrumb.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017754851601" remote="130087017750000000" Dst="1" />
+<file name="page_feed_icons.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017754876601" remote="130087017750000000" Dst="1" />
+<file name="page_help.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017754876601" remote="130087017750000000" Dst="1" />
+<file name="page_logo.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017754901601" remote="130087017750000000" Dst="1" />
+<file name="page_messages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017754901601" remote="130087017750000000" Dst="1" />
+<file name="page_primary_links.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017754926602" remote="130087017750000000" Dst="1" />
+<file name="page_secondary_links.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017754951602" remote="130087017750000000" Dst="1" />
+<file name="page_site_name.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017754976603" remote="130087017750000000" Dst="1" />
+<file name="page_slogan.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017755001603" remote="130087017750000000" Dst="1" />
+<file name="page_tabs.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017755001603" remote="130087017750000000" Dst="1" />
+<file name="page_title.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017755026603" remote="130087017750000000" Dst="1" />
 </dwsync>

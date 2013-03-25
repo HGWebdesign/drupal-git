@@ -7,4 +7,11 @@
 <file name="toolbar.module" server="C:/xampp/htdocs/drupal-git/" local="130084501801711534" remote="130084501800000000" Dst="1" />
 <file name="toolbar.png" server="C:/xampp/htdocs/drupal-git/" local="130084501804186572" remote="130084501800000000" Dst="1" />
 <file name="toolbar.tpl.php" server="C:/xampp/htdocs/drupal-git/" local="130084501802186541" remote="130084501800000000" Dst="1" />
+<file name="toolbar-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017742526411" remote="130087017740000000" Dst="1" />
+<file name="toolbar.css" server="C:/xampp/htdocs/drupal-live/" local="130087017742551412" remote="130087017740000000" Dst="1" />
+<file name="toolbar.info" server="C:/xampp/htdocs/drupal-live/" local="130087017742576412" remote="130087017740000000" Dst="1" />
+<file name="toolbar.js" server="C:/xampp/htdocs/drupal-live/" local="130087017742601413" remote="130087017740000000" Dst="1" />
+<file name="toolbar.module" server="C:/xampp/htdocs/drupal-live/" local="130087017742626413" remote="130087017740000000" Dst="1" />
+<file name="toolbar.png" server="C:/xampp/htdocs/drupal-live/" local="130087017742651413" remote="130087017740000000" Dst="1" />
+<file name="toolbar.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017742676414" remote="130087017740000000" Dst="1" />
 </dwsync>

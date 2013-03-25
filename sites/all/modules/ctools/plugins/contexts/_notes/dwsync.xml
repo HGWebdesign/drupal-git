@@ -11,4 +11,15 @@
 <file name="user.inc" server="C:/xampp/htdocs/drupal-git/" local="130084526826492752" remote="130084526820000000" Dst="1" />
 <file name="user_edit_form.inc" server="C:/xampp/htdocs/drupal-git/" local="130084526826024752" remote="130084526820000000" Dst="1" />
 <file name="vocabulary.inc" server="C:/xampp/htdocs/drupal-git/" local="130084526825712751" remote="130084526820000000" Dst="1" />
+<file name="entity.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017755776615" remote="130087017750000000" Dst="1" />
+<file name="node.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017755826616" remote="130087017750000000" Dst="1" />
+<file name="node_add_form.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017755851616" remote="130087017750000000" Dst="1" />
+<file name="node_edit_form.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017755876616" remote="130087017750000000" Dst="1" />
+<file name="string.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017756051619" remote="130087017750000000" Dst="1" />
+<file name="term.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017756076620" remote="130087017750000000" Dst="1" />
+<file name="terms.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017756101620" remote="130087017750000000" Dst="1" />
+<file name="token.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017756126620" remote="130087017750000000" Dst="1" />
+<file name="user.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017756151621" remote="130087017750000000" Dst="1" />
+<file name="user_edit_form.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017756176621" remote="130087017750000000" Dst="1" />
+<file name="vocabulary.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017756201621" remote="130087017750000000" Dst="1" />
 </dwsync>

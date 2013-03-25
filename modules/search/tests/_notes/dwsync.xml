@@ -5,4 +5,9 @@
 <file name="search_extra_type.info" server="C:/xampp/htdocs/drupal-git/" local="130084501744165152" remote="130084501740000000" Dst="1" />
 <file name="search_extra_type.module" server="C:/xampp/htdocs/drupal-git/" local="130084501745115206" remote="130084501740000000" Dst="1" />
 <file name="UnicodeTest.txt" server="C:/xampp/htdocs/drupal-git/" local="130084501743655122" remote="130084501740000000" Dst="1" />
+<file name="search_embedded_form.info" server="C:/xampp/htdocs/drupal-live/" local="130087017731876248" remote="130087017730000000" Dst="1" />
+<file name="search_embedded_form.module" server="C:/xampp/htdocs/drupal-live/" local="130087017731901248" remote="130087017730000000" Dst="1" />
+<file name="search_extra_type.info" server="C:/xampp/htdocs/drupal-live/" local="130087017731926249" remote="130087017730000000" Dst="1" />
+<file name="search_extra_type.module" server="C:/xampp/htdocs/drupal-live/" local="130087017731951249" remote="130087017730000000" Dst="1" />
+<file name="UnicodeTest.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017731826247" remote="130087017730000000" Dst="1" />
 </dwsync>

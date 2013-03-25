@@ -13,4 +13,17 @@
 <file name="update.report.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501765185551" remote="130084501760000000" Dst="1" />
 <file name="update.settings.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501759160458" remote="130084501750000000" Dst="1" />
 <file name="update.test" server="C:/xampp/htdocs/drupal-git/" local="130084501760710482" remote="130084501760000000" Dst="1" />
+<file name="update-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017743951433" remote="130087017740000000" Dst="1" />
+<file name="update.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017743976434" remote="130087017740000000" Dst="1" />
+<file name="update.authorize.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017744001434" remote="130087017740000000" Dst="1" />
+<file name="update.compare.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017744051435" remote="130087017740000000" Dst="1" />
+<file name="update.css" server="C:/xampp/htdocs/drupal-live/" local="130087017744076435" remote="130087017740000000" Dst="1" />
+<file name="update.fetch.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017744101436" remote="130087017740000000" Dst="1" />
+<file name="update.info" server="C:/xampp/htdocs/drupal-live/" local="130087017744126436" remote="130087017740000000" Dst="1" />
+<file name="update.install" server="C:/xampp/htdocs/drupal-live/" local="130087017744151436" remote="130087017740000000" Dst="1" />
+<file name="update.manager.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017744176437" remote="130087017740000000" Dst="1" />
+<file name="update.module" server="C:/xampp/htdocs/drupal-live/" local="130087017744201437" remote="130087017740000000" Dst="1" />
+<file name="update.report.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017744226437" remote="130087017740000000" Dst="1" />
+<file name="update.settings.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017744251438" remote="130087017740000000" Dst="1" />
+<file name="update.test" server="C:/xampp/htdocs/drupal-live/" local="130087017744276438" remote="130087017740000000" Dst="1" />
 </dwsync>

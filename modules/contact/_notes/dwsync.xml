@@ -6,4 +6,10 @@
 <file name="contact.module" server="C:/xampp/htdocs/drupal-git/" local="130084501800711519" remote="130084501800000000" Dst="1" />
 <file name="contact.pages.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501800411514" remote="130084501800000000" Dst="1" />
 <file name="contact.test" server="C:/xampp/htdocs/drupal-git/" local="130084501799911506" remote="130084501790000000" Dst="1" />
+<file name="contact.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017724016127" remote="130087017720000000" Dst="1" />
+<file name="contact.info" server="C:/xampp/htdocs/drupal-live/" local="130087017724041127" remote="130087017720000000" Dst="1" />
+<file name="contact.install" server="C:/xampp/htdocs/drupal-live/" local="130087017724066127" remote="130087017720000000" Dst="1" />
+<file name="contact.module" server="C:/xampp/htdocs/drupal-live/" local="130087017724091128" remote="130087017720000000" Dst="1" />
+<file name="contact.pages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017724116128" remote="130087017720000000" Dst="1" />
+<file name="contact.test" server="C:/xampp/htdocs/drupal-live/" local="130087017724141129" remote="130087017720000000" Dst="1" />
 </dwsync>

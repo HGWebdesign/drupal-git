@@ -13,4 +13,17 @@
 <file name="ui-icons_454545_256x240.png" server="C:/xampp/htdocs/drupal-git/" local="130084501884838664" remote="130084501880000000" Dst="1" />
 <file name="ui-icons_888888_256x240.png" server="C:/xampp/htdocs/drupal-git/" local="130084501888088714" remote="130084501880000000" Dst="1" />
 <file name="ui-icons_cd0a0a_256x240.png" server="C:/xampp/htdocs/drupal-git/" local="130084501887188701" remote="130084501880000000" Dst="1" />
+<file name="ui-bg_flat_0_aaaaaa_40x100.png" server="C:/xampp/htdocs/drupal-live/" local="130087017719941064" remote="130087017710000000" Dst="1" />
+<file name="ui-bg_flat_75_ffffff_40x100.png" server="C:/xampp/htdocs/drupal-live/" local="130087017719941064" remote="130087017710000000" Dst="1" />
+<file name="ui-bg_glass_55_fbf9ee_1x400.png" server="C:/xampp/htdocs/drupal-live/" local="130087017719966064" remote="130087017710000000" Dst="1" />
+<file name="ui-bg_glass_65_ffffff_1x400.png" server="C:/xampp/htdocs/drupal-live/" local="130087017719991065" remote="130087017710000000" Dst="1" />
+<file name="ui-bg_glass_75_dadada_1x400.png" server="C:/xampp/htdocs/drupal-live/" local="130087017719991065" remote="130087017710000000" Dst="1" />
+<file name="ui-bg_glass_75_e6e6e6_1x400.png" server="C:/xampp/htdocs/drupal-live/" local="130087017720016065" remote="130087017720000000" Dst="1" />
+<file name="ui-bg_glass_95_fef1ec_1x400.png" server="C:/xampp/htdocs/drupal-live/" local="130087017720041066" remote="130087017720000000" Dst="1" />
+<file name="ui-bg_highlight-soft_75_cccccc_1x100.png" server="C:/xampp/htdocs/drupal-live/" local="130087017720041066" remote="130087017720000000" Dst="1" />
+<file name="ui-icons_222222_256x240.png" server="C:/xampp/htdocs/drupal-live/" local="130087017720066066" remote="130087017720000000" Dst="1" />
+<file name="ui-icons_2e83ff_256x240.png" server="C:/xampp/htdocs/drupal-live/" local="130087017720091066" remote="130087017720000000" Dst="1" />
+<file name="ui-icons_454545_256x240.png" server="C:/xampp/htdocs/drupal-live/" local="130087017720091066" remote="130087017720000000" Dst="1" />
+<file name="ui-icons_888888_256x240.png" server="C:/xampp/htdocs/drupal-live/" local="130087017720116067" remote="130087017720000000" Dst="1" />
+<file name="ui-icons_cd0a0a_256x240.png" server="C:/xampp/htdocs/drupal-live/" local="130087017720141067" remote="130087017720000000" Dst="1" />
 </dwsync>

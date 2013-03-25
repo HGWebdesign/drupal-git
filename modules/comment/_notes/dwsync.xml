@@ -13,4 +13,17 @@
 <file name="comment.test" server="C:/xampp/htdocs/drupal-git/" local="130084501588686985" remote="130084501580000000" Dst="1" />
 <file name="comment.tokens.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501590062006" remote="130084501590000000" Dst="1" />
 <file name="comment.tpl.php" server="C:/xampp/htdocs/drupal-git/" local="130084501587461966" remote="130084501580000000" Dst="1" />
+<file name="comment-node-form.js" server="C:/xampp/htdocs/drupal-live/" local="130087017723641121" remote="130087017720000000" Dst="1" />
+<file name="comment-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017723666121" remote="130087017720000000" Dst="1" />
+<file name="comment-wrapper.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017723691122" remote="130087017720000000" Dst="1" />
+<file name="comment.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017723716122" remote="130087017720000000" Dst="1" />
+<file name="comment.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017723766123" remote="130087017720000000" Dst="1" />
+<file name="comment.css" server="C:/xampp/htdocs/drupal-live/" local="130087017723791123" remote="130087017720000000" Dst="1" />
+<file name="comment.info" server="C:/xampp/htdocs/drupal-live/" local="130087017723791123" remote="130087017720000000" Dst="1" />
+<file name="comment.install" server="C:/xampp/htdocs/drupal-live/" local="130087017723816124" remote="130087017720000000" Dst="1" />
+<file name="comment.module" server="C:/xampp/htdocs/drupal-live/" local="130087017723866124" remote="130087017720000000" Dst="1" />
+<file name="comment.pages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017723891125" remote="130087017720000000" Dst="1" />
+<file name="comment.test" server="C:/xampp/htdocs/drupal-live/" local="130087017723941126" remote="130087017720000000" Dst="1" />
+<file name="comment.tokens.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017723941126" remote="130087017720000000" Dst="1" />
+<file name="comment.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017723991126" remote="130087017720000000" Dst="1" />
 </dwsync>

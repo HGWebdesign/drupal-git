@@ -3,4 +3,7 @@
 <file name="views_content.admin.inc" server="C:/xampp/htdocs/drupal-git/" local="130084526854852344" remote="130084526850000000" Dst="1" />
 <file name="views_content.info" server="C:/xampp/htdocs/drupal-git/" local="130084526855014847" remote="130084526850000000" Dst="1" />
 <file name="views_content.module" server="C:/xampp/htdocs/drupal-git/" local="130084526855264851" remote="130084526850000000" Dst="1" />
+<file name="views_content.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017760626689" remote="130087017760000000" Dst="1" />
+<file name="views_content.info" server="C:/xampp/htdocs/drupal-live/" local="130087017761251699" remote="130087017760000000" Dst="1" />
+<file name="views_content.module" server="C:/xampp/htdocs/drupal-live/" local="130087017761276699" remote="130087017760000000" Dst="1" />
 </dwsync>

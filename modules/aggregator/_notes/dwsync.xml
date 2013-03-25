@@ -17,4 +17,21 @@
 <file name="aggregator.parser.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501774395787" remote="130084501770000000" Dst="1" />
 <file name="aggregator.processor.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501775465848" remote="130084501770000000" Dst="1" />
 <file name="aggregator.test" server="C:/xampp/htdocs/drupal-git/" local="130084501776650914" remote="130084501770000000" Dst="1" />
+<file name="aggregator-feed-source.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017721641090" remote="130087017720000000" Dst="1" />
+<file name="aggregator-item.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017721666091" remote="130087017720000000" Dst="1" />
+<file name="aggregator-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017721666091" remote="130087017720000000" Dst="1" />
+<file name="aggregator-summary-item.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017721691091" remote="130087017720000000" Dst="1" />
+<file name="aggregator-summary-items.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017721716091" remote="130087017720000000" Dst="1" />
+<file name="aggregator-wrapper.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017721716091" remote="130087017720000000" Dst="1" />
+<file name="aggregator.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017721741092" remote="130087017720000000" Dst="1" />
+<file name="aggregator.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017721791092" remote="130087017720000000" Dst="1" />
+<file name="aggregator.css" server="C:/xampp/htdocs/drupal-live/" local="130087017721816093" remote="130087017720000000" Dst="1" />
+<file name="aggregator.fetcher.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017721841093" remote="130087017720000000" Dst="1" />
+<file name="aggregator.info" server="C:/xampp/htdocs/drupal-live/" local="130087017721866094" remote="130087017720000000" Dst="1" />
+<file name="aggregator.install" server="C:/xampp/htdocs/drupal-live/" local="130087017721891094" remote="130087017720000000" Dst="1" />
+<file name="aggregator.module" server="C:/xampp/htdocs/drupal-live/" local="130087017721916094" remote="130087017720000000" Dst="1" />
+<file name="aggregator.pages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017721941095" remote="130087017720000000" Dst="1" />
+<file name="aggregator.parser.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017721991096" remote="130087017720000000" Dst="1" />
+<file name="aggregator.processor.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017722041096" remote="130087017720000000" Dst="1" />
+<file name="aggregator.test" server="C:/xampp/htdocs/drupal-live/" local="130087017722066097" remote="130087017720000000" Dst="1" />
 </dwsync>

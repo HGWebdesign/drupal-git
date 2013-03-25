@@ -4,4 +4,8 @@
 <file name="views_user.test" server="C:/xampp/htdocs/drupal-git/" local="130084511674676577" remote="130084511670000000" Dst="1" />
 <file name="views_user_argument_default.test" server="C:/xampp/htdocs/drupal-git/" local="130084511674701577" remote="130084511670000000" Dst="1" />
 <file name="views_user_argument_validate.test" server="C:/xampp/htdocs/drupal-git/" local="130084511674751578" remote="130084511670000000" Dst="1" />
+<file name="views_handler_field_user_name.test" server="C:/xampp/htdocs/drupal-live/" local="130087017783402039" remote="130087017780000000" Dst="1" />
+<file name="views_user.test" server="C:/xampp/htdocs/drupal-live/" local="130087017783427040" remote="130087017780000000" Dst="1" />
+<file name="views_user_argument_default.test" server="C:/xampp/htdocs/drupal-live/" local="130087017783527041" remote="130087017780000000" Dst="1" />
+<file name="views_user_argument_validate.test" server="C:/xampp/htdocs/drupal-live/" local="130087017783577042" remote="130087017780000000" Dst="1" />
 </dwsync>

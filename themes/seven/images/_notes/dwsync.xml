@@ -18,4 +18,22 @@
 <file name="ui-icons-800000-256x240.png" server="C:/xampp/htdocs/drupal-git/" local="130084501812811705" remote="130084501810000000" Dst="1" />
 <file name="ui-icons-888888-256x240.png" server="C:/xampp/htdocs/drupal-git/" local="130084501812261696" remote="130084501810000000" Dst="1" />
 <file name="ui-icons-ffffff-256x240.png" server="C:/xampp/htdocs/drupal-git/" local="130084501813386713" remote="130084501810000000" Dst="1" />
+<file name="add.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789202128" remote="130087017780000000" Dst="1" />
+<file name="arrow-asc.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789327130" remote="130087017780000000" Dst="1" />
+<file name="arrow-desc.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789327130" remote="130087017780000000" Dst="1" />
+<file name="arrow-next.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789427132" remote="130087017780000000" Dst="1" />
+<file name="arrow-prev.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789452132" remote="130087017780000000" Dst="1" />
+<file name="buttons.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789677136" remote="130087017780000000" Dst="1" />
+<file name="fc-rtl.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789822139" remote="130087017780000000" Dst="1" />
+<file name="fc.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789822139" remote="130087017780000000" Dst="1" />
+<file name="list-item-rtl.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789847139" remote="130087017780000000" Dst="1" />
+<file name="list-item.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789872139" remote="130087017780000000" Dst="1" />
+<file name="task-check.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789872139" remote="130087017780000000" Dst="1" />
+<file name="task-item-rtl.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789897140" remote="130087017780000000" Dst="1" />
+<file name="task-item.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789897140" remote="130087017780000000" Dst="1" />
+<file name="ui-icons-222222-256x240.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789922140" remote="130087017780000000" Dst="1" />
+<file name="ui-icons-454545-256x240.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789947141" remote="130087017780000000" Dst="1" />
+<file name="ui-icons-800000-256x240.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789947141" remote="130087017780000000" Dst="1" />
+<file name="ui-icons-888888-256x240.png" server="C:/xampp/htdocs/drupal-live/" local="130087017789972141" remote="130087017780000000" Dst="1" />
+<file name="ui-icons-ffffff-256x240.png" server="C:/xampp/htdocs/drupal-live/" local="130087017790022142" remote="130087017790000000" Dst="1" />
 </dwsync>

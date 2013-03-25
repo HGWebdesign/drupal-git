@@ -5,4 +5,9 @@
 <file name="query.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501534925734" remote="130084501530000000" Dst="1" />
 <file name="schema.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501535825748" remote="130084501530000000" Dst="1" />
 <file name="select.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501534675731" remote="130084501530000000" Dst="1" />
+<file name="database.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017716630973" remote="130087017710000000" Dst="1" />
+<file name="install.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017716670975" remote="130087017710000000" Dst="1" />
+<file name="query.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017716690976" remote="130087017710000000" Dst="1" />
+<file name="schema.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017716820984" remote="130087017710000000" Dst="1" />
+<file name="select.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017716860986" remote="130087017710000000" Dst="1" />
 </dwsync>

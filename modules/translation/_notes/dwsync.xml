@@ -4,4 +4,8 @@
 <file name="translation.module" server="C:/xampp/htdocs/drupal-git/" local="130084501745705240" remote="130084501740000000" Dst="1" />
 <file name="translation.pages.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501745385221" remote="130084501740000000" Dst="1" />
 <file name="translation.test" server="C:/xampp/htdocs/drupal-git/" local="130084501746200259" remote="130084501740000000" Dst="1" />
+<file name="translation.info" server="C:/xampp/htdocs/drupal-live/" local="130087017743126421" remote="130087017740000000" Dst="1" />
+<file name="translation.module" server="C:/xampp/htdocs/drupal-live/" local="130087017743151421" remote="130087017740000000" Dst="1" />
+<file name="translation.pages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017743176421" remote="130087017740000000" Dst="1" />
+<file name="translation.test" server="C:/xampp/htdocs/drupal-live/" local="130087017743201422" remote="130087017740000000" Dst="1" />
 </dwsync>

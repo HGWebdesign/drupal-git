@@ -8,4 +8,12 @@
 <file name="handlers.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511663601407" remote="130084511660000000" Dst="1" />
 <file name="plugins.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511663651408" remote="130084511660000000" Dst="1" />
 <file name="view.inc" server="C:/xampp/htdocs/drupal-git/" local="130084511663776410" remote="130084511660000000" Dst="1" />
+<file name="admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017770476841" remote="130087017770000000" Dst="1" />
+<file name="ajax.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017770501841" remote="130087017770000000" Dst="1" />
+<file name="analyze.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017770526841" remote="130087017770000000" Dst="1" />
+<file name="base.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017770551842" remote="130087017770000000" Dst="1" />
+<file name="cache.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017770576842" remote="130087017770000000" Dst="1" />
+<file name="handlers.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017770601843" remote="130087017770000000" Dst="1" />
+<file name="plugins.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017770626843" remote="130087017770000000" Dst="1" />
+<file name="view.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017770701844" remote="130087017770000000" Dst="1" />
 </dwsync>

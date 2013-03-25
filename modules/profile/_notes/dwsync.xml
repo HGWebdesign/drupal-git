@@ -11,4 +11,15 @@
 <file name="profile.module" server="C:/xampp/htdocs/drupal-git/" local="130084501542525851" remote="130084501540000000" Dst="1" />
 <file name="profile.pages.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501541100829" remote="130084501540000000" Dst="1" />
 <file name="profile.test" server="C:/xampp/htdocs/drupal-git/" local="130084501542200846" remote="130084501540000000" Dst="1" />
+<file name="profile-block.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017730926233" remote="130087017730000000" Dst="1" />
+<file name="profile-listing.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017730926233" remote="130087017730000000" Dst="1" />
+<file name="profile-wrapper.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017730951234" remote="130087017730000000" Dst="1" />
+<file name="profile.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017730976234" remote="130087017730000000" Dst="1" />
+<file name="profile.css" server="C:/xampp/htdocs/drupal-live/" local="130087017731026235" remote="130087017730000000" Dst="1" />
+<file name="profile.info" server="C:/xampp/htdocs/drupal-live/" local="130087017731051235" remote="130087017730000000" Dst="1" />
+<file name="profile.install" server="C:/xampp/htdocs/drupal-live/" local="130087017731076236" remote="130087017730000000" Dst="1" />
+<file name="profile.js" server="C:/xampp/htdocs/drupal-live/" local="130087017731101236" remote="130087017730000000" Dst="1" />
+<file name="profile.module" server="C:/xampp/htdocs/drupal-live/" local="130087017731126236" remote="130087017730000000" Dst="1" />
+<file name="profile.pages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017731176237" remote="130087017730000000" Dst="1" />
+<file name="profile.test" server="C:/xampp/htdocs/drupal-live/" local="130087017731201237" remote="130087017730000000" Dst="1" />
 </dwsync>

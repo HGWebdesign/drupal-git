@@ -14,4 +14,18 @@
 <file name="style.css" server="C:/xampp/htdocs/drupal-git/" local="130084501817636779" remote="130084501810000000" Dst="1" />
 <file name="template.php" server="C:/xampp/htdocs/drupal-git/" local="130084501817861782" remote="130084501810000000" Dst="1" />
 <file name="theme-settings.php" server="C:/xampp/htdocs/drupal-git/" local="130084501817336774" remote="130084501810000000" Dst="1" />
+<file name="comment.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017788352115" remote="130087017780000000" Dst="1" />
+<file name="fix-ie-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017788377116" remote="130087017780000000" Dst="1" />
+<file name="fix-ie.css" server="C:/xampp/htdocs/drupal-live/" local="130087017788402116" remote="130087017780000000" Dst="1" />
+<file name="garland.info" server="C:/xampp/htdocs/drupal-live/" local="130087017788427116" remote="130087017780000000" Dst="1" />
+<file name="logo.png" server="C:/xampp/htdocs/drupal-live/" local="130087017788702121" remote="130087017780000000" Dst="1" />
+<file name="maintenance-page.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017788727121" remote="130087017780000000" Dst="1" />
+<file name="node.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017788752121" remote="130087017780000000" Dst="1" />
+<file name="page.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017788777122" remote="130087017780000000" Dst="1" />
+<file name="print.css" server="C:/xampp/htdocs/drupal-live/" local="130087017788802122" remote="130087017780000000" Dst="1" />
+<file name="screenshot.png" server="C:/xampp/htdocs/drupal-live/" local="130087017788827123" remote="130087017780000000" Dst="1" />
+<file name="style-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017788827123" remote="130087017780000000" Dst="1" />
+<file name="style.css" server="C:/xampp/htdocs/drupal-live/" local="130087017788877123" remote="130087017780000000" Dst="1" />
+<file name="template.php" server="C:/xampp/htdocs/drupal-live/" local="130087017789027126" remote="130087017780000000" Dst="1" />
+<file name="theme-settings.php" server="C:/xampp/htdocs/drupal-live/" local="130087017789052126" remote="130087017780000000" Dst="1" />
 </dwsync>

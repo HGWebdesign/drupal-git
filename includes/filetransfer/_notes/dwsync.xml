@@ -4,4 +4,8 @@
 <file name="ftp.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501531925688" remote="130084501530000000" Dst="1" />
 <file name="local.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501532425696" remote="130084501530000000" Dst="1" />
 <file name="ssh.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501531700685" remote="130084501530000000" Dst="1" />
+<file name="filetransfer.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017717080999" remote="130087017710000000" Dst="1" />
+<file name="ftp.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017717111001" remote="130087017710000000" Dst="1" />
+<file name="local.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017717141002" remote="130087017710000000" Dst="1" />
+<file name="ssh.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017717171004" remote="130087017710000000" Dst="1" />
 </dwsync>

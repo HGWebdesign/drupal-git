@@ -10,4 +10,14 @@
 <file name="filter.module" server="C:/xampp/htdocs/drupal-git/" local="130084501607237270" remote="130084501600000000" Dst="1" />
 <file name="filter.pages.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501605812248" remote="130084501600000000" Dst="1" />
 <file name="filter.test" server="C:/xampp/htdocs/drupal-git/" local="130084501608212285" remote="130084501600000000" Dst="1" />
+<file name="filter.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017727066174" remote="130087017720000000" Dst="1" />
+<file name="filter.admin.js" server="C:/xampp/htdocs/drupal-live/" local="130087017727116174" remote="130087017720000000" Dst="1" />
+<file name="filter.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017727141175" remote="130087017720000000" Dst="1" />
+<file name="filter.css" server="C:/xampp/htdocs/drupal-live/" local="130087017727191175" remote="130087017720000000" Dst="1" />
+<file name="filter.info" server="C:/xampp/htdocs/drupal-live/" local="130087017727191175" remote="130087017720000000" Dst="1" />
+<file name="filter.install" server="C:/xampp/htdocs/drupal-live/" local="130087017727216176" remote="130087017720000000" Dst="1" />
+<file name="filter.js" server="C:/xampp/htdocs/drupal-live/" local="130087017727266177" remote="130087017720000000" Dst="1" />
+<file name="filter.module" server="C:/xampp/htdocs/drupal-live/" local="130087017727291177" remote="130087017720000000" Dst="1" />
+<file name="filter.pages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017727316177" remote="130087017720000000" Dst="1" />
+<file name="filter.test" server="C:/xampp/htdocs/drupal-live/" local="130087017727341178" remote="130087017720000000" Dst="1" />
 </dwsync>

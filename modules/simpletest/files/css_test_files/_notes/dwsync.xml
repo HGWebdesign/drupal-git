@@ -11,4 +11,15 @@
 <file name="css_input_without_import.css.unoptimized.css" server="C:/xampp/htdocs/drupal-git/" local="130084501650222931" remote="130084501650000000" Dst="1" />
 <file name="import1.css" server="C:/xampp/htdocs/drupal-git/" local="130084501648547905" remote="130084501640000000" Dst="1" />
 <file name="import2.css" server="C:/xampp/htdocs/drupal-git/" local="130084501648772909" remote="130084501640000000" Dst="1" />
+<file name="comment_hacks.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732401256" remote="130087017730000000" Dst="1" />
+<file name="comment_hacks.css.optimized.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732426256" remote="130087017730000000" Dst="1" />
+<file name="comment_hacks.css.unoptimized.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732451257" remote="130087017730000000" Dst="1" />
+<file name="css_input_with_import.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732476257" remote="130087017730000000" Dst="1" />
+<file name="css_input_with_import.css.optimized.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732476257" remote="130087017730000000" Dst="1" />
+<file name="css_input_with_import.css.unoptimized.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732501257" remote="130087017730000000" Dst="1" />
+<file name="css_input_without_import.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732526258" remote="130087017730000000" Dst="1" />
+<file name="css_input_without_import.css.optimized.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732551258" remote="130087017730000000" Dst="1" />
+<file name="css_input_without_import.css.unoptimized.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732576259" remote="130087017730000000" Dst="1" />
+<file name="import1.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732576259" remote="130087017730000000" Dst="1" />
+<file name="import2.css" server="C:/xampp/htdocs/drupal-live/" local="130087017732601259" remote="130087017730000000" Dst="1" />
 </dwsync>

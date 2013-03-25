@@ -7,4 +7,11 @@
 <file name="field_test.install" server="C:/xampp/htdocs/drupal-git/" local="130084501797186465" remote="130084501790000000" Dst="1" />
 <file name="field_test.module" server="C:/xampp/htdocs/drupal-git/" local="130084501796311451" remote="130084501790000000" Dst="1" />
 <file name="field_test.storage.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501796936461" remote="130084501790000000" Dst="1" />
+<file name="field.test" server="C:/xampp/htdocs/drupal-live/" local="130087017725991157" remote="130087017720000000" Dst="1" />
+<file name="field_test.entity.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017726016157" remote="130087017720000000" Dst="1" />
+<file name="field_test.field.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017726066158" remote="130087017720000000" Dst="1" />
+<file name="field_test.info" server="C:/xampp/htdocs/drupal-live/" local="130087017726091159" remote="130087017720000000" Dst="1" />
+<file name="field_test.install" server="C:/xampp/htdocs/drupal-live/" local="130087017726116159" remote="130087017720000000" Dst="1" />
+<file name="field_test.module" server="C:/xampp/htdocs/drupal-live/" local="130087017726141159" remote="130087017720000000" Dst="1" />
+<file name="field_test.storage.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017726191160" remote="130087017720000000" Dst="1" />
 </dwsync>

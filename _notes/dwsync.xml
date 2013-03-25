@@ -20,4 +20,24 @@
 <file name="UPGRADE.txt" server="C:/xampp/htdocs/drupal-git/" local="130084501509975351" remote="130084501500000000" Dst="1" />
 <file name="web.config" server="C:/xampp/htdocs/drupal-git/" local="130084501513725409" remote="130084501510000000" Dst="1" />
 <file name="xmlrpc.php" server="C:/xampp/htdocs/drupal-git/" local="130084501508325326" remote="130084501500000000" Dst="1" />
+<file name=".gitignore" server="C:/xampp/htdocs/drupal-live/" local="130087017715200891" remote="130087017710000000" Dst="1" />
+<file name=".htaccess" server="C:/xampp/htdocs/drupal-live/" local="130087017715230893" remote="130087017710000000" Dst="1" />
+<file name="authorize.php" server="C:/xampp/htdocs/drupal-live/" local="130087017715470907" remote="130087017710000000" Dst="1" />
+<file name="CHANGELOG.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017715270895" remote="130087017710000000" Dst="1" />
+<file name="COPYRIGHT.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017715280896" remote="130087017710000000" Dst="1" />
+<file name="cron.php" server="C:/xampp/htdocs/drupal-live/" local="130087017715490908" remote="130087017710000000" Dst="1" />
+<file name="index.php" server="C:/xampp/htdocs/drupal-live/" local="130087017718391040" remote="130087017710000000" Dst="1" />
+<file name="INSTALL.mysql.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017715300897" remote="130087017710000000" Dst="1" />
+<file name="INSTALL.pgsql.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017715310898" remote="130087017710000000" Dst="1" />
+<file name="install.php" server="C:/xampp/htdocs/drupal-live/" local="130087017718416041" remote="130087017710000000" Dst="1" />
+<file name="INSTALL.sqlite.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017715330899" remote="130087017710000000" Dst="1" />
+<file name="INSTALL.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017715350900" remote="130087017710000000" Dst="1" />
+<file name="LICENSE.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017715370901" remote="130087017710000000" Dst="1" />
+<file name="MAINTAINERS.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017715390902" remote="130087017710000000" Dst="1" />
+<file name="README.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017715400903" remote="130087017710000000" Dst="1" />
+<file name="robots.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017745326454" remote="130087017740000000" Dst="1" />
+<file name="update.php" server="C:/xampp/htdocs/drupal-live/" local="130087017791147159" remote="130087017790000000" Dst="1" />
+<file name="UPGRADE.txt" server="C:/xampp/htdocs/drupal-live/" local="130087017715420904" remote="130087017710000000" Dst="1" />
+<file name="web.config" server="C:/xampp/htdocs/drupal-live/" local="130087017791522165" remote="130087017790000000" Dst="1" />
+<file name="xmlrpc.php" server="C:/xampp/htdocs/drupal-live/" local="130087017791522165" remote="130087017790000000" Dst="1" />
 </dwsync>

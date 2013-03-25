@@ -13,4 +13,17 @@
 <file name="search.module" server="C:/xampp/htdocs/drupal-git/" local="130084501740324932" remote="130084501740000000" Dst="1" />
 <file name="search.pages.inc" server="C:/xampp/htdocs/drupal-git/" local="130084501740564946" remote="130084501740000000" Dst="1" />
 <file name="search.test" server="C:/xampp/htdocs/drupal-git/" local="130084501739344876" remote="130084501730000000" Dst="1" />
+<file name="search-block-form.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017731476242" remote="130087017730000000" Dst="1" />
+<file name="search-result.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017731501242" remote="130087017730000000" Dst="1" />
+<file name="search-results.tpl.php" server="C:/xampp/htdocs/drupal-live/" local="130087017731526242" remote="130087017730000000" Dst="1" />
+<file name="search-rtl.css" server="C:/xampp/htdocs/drupal-live/" local="130087017731526242" remote="130087017730000000" Dst="1" />
+<file name="search.admin.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017731551243" remote="130087017730000000" Dst="1" />
+<file name="search.api.php" server="C:/xampp/htdocs/drupal-live/" local="130087017731576243" remote="130087017730000000" Dst="1" />
+<file name="search.css" server="C:/xampp/htdocs/drupal-live/" local="130087017731626244" remote="130087017730000000" Dst="1" />
+<file name="search.extender.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017731651244" remote="130087017730000000" Dst="1" />
+<file name="search.info" server="C:/xampp/htdocs/drupal-live/" local="130087017731676245" remote="130087017730000000" Dst="1" />
+<file name="search.install" server="C:/xampp/htdocs/drupal-live/" local="130087017731701245" remote="130087017730000000" Dst="1" />
+<file name="search.module" server="C:/xampp/htdocs/drupal-live/" local="130087017731751246" remote="130087017730000000" Dst="1" />
+<file name="search.pages.inc" server="C:/xampp/htdocs/drupal-live/" local="130087017731776246" remote="130087017730000000" Dst="1" />
+<file name="search.test" server="C:/xampp/htdocs/drupal-live/" local="130087017731801247" remote="130087017730000000" Dst="1" />
 </dwsync>
